@@ -1,0 +1,6 @@
+{
+  "box-radius": {
+    "$type": "borderRadius",
+    "$value": "16"
+  }
+}
